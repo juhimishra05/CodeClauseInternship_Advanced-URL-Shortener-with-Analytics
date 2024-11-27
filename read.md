@@ -1,0 +1,1 @@
+This Python program is a simple URL shortener app with a graphical user interface (GUI) built using Tkinter. Users can input a long URL, and the app will generate a shortened version using the TinyURL service. The shortened URL is then displayed, and users can copy it to their clipboard for easy sharing. The app also handles empty or invalid URL inputs with an error message
